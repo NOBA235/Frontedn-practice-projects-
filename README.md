@@ -61,7 +61,7 @@ Feel free to fork this repository or open an issue.
 
 ## 📌 Author
 
-**Noba Na**  
+**Noba **  
 Frontend Developer (in progress 💻🔥)
 
 ---
